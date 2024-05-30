@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RegisteredParticipant>
+    <Conferee>
+        <name>Name1</name>
+        <family>test1</family>
+        <organization>org1</organization>
+        <report>rep1</report>
+        <email>name1@gmail.com</email>
+    </Conferee>
+    <Conferee>
+        <name>Name2</name>
+        <family>test2</family>
+        <organization>org2</organization>
+        <report>rep2</report>
+        <email>name2@gmail.com</email>
+    </Conferee>
+    <Conferee>
+        <name>Name3</name>
+        <family>test3</family>
+        <organization>org3</organization>
+        <report>rep3</report>
+        <email>name3@gmail.com</email>
+    </Conferee>
+    <Conferee>
+        <name>Name4</name>
+        <family>test4</family>
+        <organization>org4</organization>
+        <report>rep4</report>
+        <email>name4@gmail.com</email>
+    </Conferee>
+    <Conferee>
+        <name>Name5</name>
+        <family>test5</family>
+        <organization>org5</organization>
+        <report>rep5</report>
+        <email>name5@gmail.com</email>
+    </Conferee>
+</RegisteredParticipant>
